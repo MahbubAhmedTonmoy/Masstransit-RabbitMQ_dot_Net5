@@ -1,0 +1,12 @@
+C:\Users\ahmed.mahbub\Desktop\Masstransit-RabbitMQ_dot_Net5\Shared.Models\bin\Debug\net5.0\Shared.Models.deps.json
+C:\Users\ahmed.mahbub\Desktop\Masstransit-RabbitMQ_dot_Net5\Shared.Models\bin\Debug\net5.0\Shared.Models.dll
+C:\Users\ahmed.mahbub\Desktop\Masstransit-RabbitMQ_dot_Net5\Shared.Models\bin\Debug\net5.0\ref\Shared.Models.dll
+C:\Users\ahmed.mahbub\Desktop\Masstransit-RabbitMQ_dot_Net5\Shared.Models\bin\Debug\net5.0\Shared.Models.pdb
+C:\Users\ahmed.mahbub\Desktop\Masstransit-RabbitMQ_dot_Net5\Shared.Models\obj\Debug\net5.0\Shared.Models.csprojAssemblyReference.cache
+C:\Users\ahmed.mahbub\Desktop\Masstransit-RabbitMQ_dot_Net5\Shared.Models\obj\Debug\net5.0\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed.mahbub\Desktop\Masstransit-RabbitMQ_dot_Net5\Shared.Models\obj\Debug\net5.0\Shared.Models.AssemblyInfoInputs.cache
+C:\Users\ahmed.mahbub\Desktop\Masstransit-RabbitMQ_dot_Net5\Shared.Models\obj\Debug\net5.0\Shared.Models.AssemblyInfo.cs
+C:\Users\ahmed.mahbub\Desktop\Masstransit-RabbitMQ_dot_Net5\Shared.Models\obj\Debug\net5.0\Shared.Models.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.mahbub\Desktop\Masstransit-RabbitMQ_dot_Net5\Shared.Models\obj\Debug\net5.0\Shared.Models.dll
+C:\Users\ahmed.mahbub\Desktop\Masstransit-RabbitMQ_dot_Net5\Shared.Models\obj\Debug\net5.0\ref\Shared.Models.dll
+C:\Users\ahmed.mahbub\Desktop\Masstransit-RabbitMQ_dot_Net5\Shared.Models\obj\Debug\net5.0\Shared.Models.pdb
